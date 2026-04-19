@@ -1,0 +1,13 @@
+2026-04-12 12:41:13.164546: --- Chat Session Started ---
+2026-04-12 12:41:18.754054: User: help
+2026-04-12 12:41:18.754662: Bot: You can ask me about: 'hello', 'how are you', 'name', 'time', 'date', 'microprocessor', or 'bye'.
+2026-04-12 12:41:23.127604: User: hello
+2026-04-12 12:41:23.128423: Bot: Hello! I am PyBot. How can I assist you today?
+2026-04-12 12:41:25.739123: User: time
+2026-04-12 12:41:25.740050: Bot: The current system time is 12:41:25.
+2026-04-12 12:41:32.142195: User: how are you
+2026-04-12 12:41:32.142949: Bot: I'm just a program, so I don't have feelings, but my logic gates are running at 100% efficiency!
+2026-04-12 12:41:40.446311: User: add 7 and 8
+2026-04-12 12:41:40.447150: Bot: I'm sorry, I don't understand that command. My memory space is limited! Type 'help' for options.
+2026-04-12 12:41:49.136235: User: microprocessor
+2026-04-12 12:41:49.137194: Bot: The 8085 is an 8-bit microprocessor. It has an ALU, registers (A,B,C,D,E,H,L), and uses assembly language (e.g., MOV A,B).
