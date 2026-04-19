@@ -51,16 +51,3 @@ No real hardware needed – just click and learn!
 - Tooltips, modern look, keyboard shortcuts
 
 ---
-
-##  Getting Started
-
-### Prerequisites
-- Python 3.7 or higher
-- No external libraries – only the standard library (`tkinter` is included with most Python distributions)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/assistant-8086.git
-   cd assistant-8086
